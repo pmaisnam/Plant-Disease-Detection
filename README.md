@@ -1,2 +1,2 @@
 # Plant-Disease-Detection
-Implementated a convolutional network which can identify whether a given image of a plant is diseased or healthy.
+Given a dataset of plant leaf images predict whether a leaf image is diseased or healthy.
